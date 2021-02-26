@@ -1,0 +1,4 @@
+django
+django-rest-framework
+requests
+psycopg2-binary
